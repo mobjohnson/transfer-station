@@ -53,7 +53,7 @@ footer {
 }
 
 .cafe-mapper .screen {
-  background-image: url("../img/cafe-mapper.jpg");
+  background-image: url("../img/was-cafe-mapper.jpg");
 }
 
 .portfolio .lead {
@@ -65,15 +65,15 @@ footer {
 }
 
 .partify-macbook .screen {
-  background-image: url("../img/partify-macbook.jpg");
+  background-image: url("../img/was-partify-macbook.jpg");
 }
 
 .partify-iphone .screen {
-  background-image: url("../img/partify-iphone.jpg");
+  background-image: url("../img/was-partify-iphone.jpg");
 }
 
 .reely .screen {
-  background-image: url("../img/reely-ipad.jpg");
+  background-image: url("../img/was-reely-ipad.jpg");
   background-size: cover;
 }
 
