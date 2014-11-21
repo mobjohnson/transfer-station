@@ -52,9 +52,9 @@ footer {
   padding: 10%;
 }
 
-.cafe-mapper .screen {
+/*.cafe-mapper .screen {
   background-image: url("../img/was-cafe-mapper.jpg");
-}
+}*/
 
 .portfolio .lead {
   text-align: center;
@@ -64,18 +64,22 @@ footer {
   font-size: 1.1em;
 }
 
-.partify-macbook .screen {
-  background-image: url("../img/was-partify-macbook.jpg");
+.senatorial-macbook .screen {
+  background-image: url("../img/senatorial-macbook.jpg");
 }
 
-.partify-iphone .screen {
-  background-image: url("../img/was-partify-iphone.jpg");
+.mappetize-iphone .screen {
+  background-image: url("../img/mappetize-iphone.jpg");
 }
 
-.reely .screen {
+.mappetize-macbook .screen {
+  background-image: url("../img/mappetize-macbook.jpg");
+}
+
+/*.reely .screen {
   background-image: url("../img/was-reely-ipad.jpg");
   background-size: cover;
-}
+}*/
 
 .skills, .portfolio, .about-me {
   padding-top: 60px;
