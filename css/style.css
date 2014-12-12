@@ -52,10 +52,6 @@ footer {
   padding: 10%;
 }
 
-/*.cafe-mapper .screen {
-  background-image: url("../img/was-cafe-mapper.jpg");
-}*/
-
 .portfolio .lead {
   text-align: center;
 }
@@ -76,10 +72,14 @@ footer {
   background-image: url("../img/mappetize-macbook.jpg");
 }
 
-/*.reely .screen {
-  background-image: url("../img/was-reely-ipad.jpg");
-  background-size: cover;
-}*/
+.nextbooks .screen {
+  background-image: url("../img/nextbooks-macbook.jpg");
+}
+
+
+.overnighter .screen {
+  background-image: url("../img/overnighter-macbook.jpg");
+}
 
 .skills, .portfolio, .about-me {
   padding-top: 60px;
