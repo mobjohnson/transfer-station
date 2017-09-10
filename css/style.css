@@ -59,7 +59,7 @@ footer {
 .project-description {
   font-size: 1.1em;
 }
-
+/*
 .congressional-macbook .screen {
   background-image: url("../img/congressional-macbook.png");
 }
@@ -71,18 +71,22 @@ footer {
 .mappetize-macbook .screen {
   background-image: url("../img/mappetize-macbook.jpg");
 }
-
+*/
 .nextbooks .screen {
   background-image: url("../img/nextbooks-ipad4.png");
 }
-
 
 .overnighter .screen {
   background-image: url("../img/overnighter-macbook.jpg");
 }
 
-.skills, .portfolio, .about-me {
+.charter .screen {
+  background-image: url("../img/charter-macbook.png");
+}
+
+.skills, .portfolio, .ruby-for-good, .about-me {
   padding-top: 60px;
+  padding-left: 10px;
   margin-top: -60px;
 }
 
